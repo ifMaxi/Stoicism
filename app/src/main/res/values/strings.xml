@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stoic</string>
+    <string name="connection_problems">There was an internet connection problem.</string>
+    <string name="random_quote">Fetch quote</string>
+</resources>
